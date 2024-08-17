@@ -1,4 +1,6 @@
 -- CLEANING DATA
+-- Dataset: https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 -- 1. check for duplicates and remove any
 -- 2. standardize data and fix errors
 -- 3. Look at null values and see what 
